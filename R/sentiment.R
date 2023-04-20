@@ -10,6 +10,8 @@
 sentiment_analysis <- function(text) {
   library(tidytext)
   library(textdata)
+  library(tibble)
+  library(dplyr)
 
   # Create a tibble with the input text
   text_tbl <- tibble(line = 1, text = text)
