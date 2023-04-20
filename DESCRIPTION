@@ -5,7 +5,7 @@ Version: 0.0.0.9000
 Author: Aaron Cordova <Cordova2@usf.edu>
 Maintainer: Aaron Cordova <Cordova2@usf.edu>
 Description: This package provides a set of functions for preprocessing text data, performing sentiment analysis, .
-Depends:R (>= 3.5.0), dplyr, tidyr, tidytext, topicmodels, sentimentr, textdata
+Depends:R (>= 3.5.0), tidytext, sentimentr, textdata
 License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
