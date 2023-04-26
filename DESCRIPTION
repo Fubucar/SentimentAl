@@ -4,7 +4,7 @@ Title: Sentimenal Analysis done easy
 Version: 0.0.0.9000
 Author: Aaron Cordova <Cordova2@usf.edu>
 Maintainer: Aaron Cordova <Cordova2@usf.edu>
-Description: This package provides a set of functions for preprocessing text data, performing sentiment analysis, .
+Description: This package provides a set of functions for preprocessing text data and performing sentiment analysis.
 Depends:R (>= 3.5.0), tidytext, sentimentr, textdata, tibble, dplyr
 License: GPL-3
 Encoding: UTF-8
