@@ -4,6 +4,9 @@ Simplifies text data preprocessing and sentiment analysis for fellow data analys
 Examples:
 
 calculate_avg_word_length("The quick brown fox jumps over the lazy dog.")
+
 sentiment_analysis("Hello how are you I'm doing great thanks love")
+
 text_classification("I love playing video games! The alternative I dislike are textbooks, they are boring.")
+
 text_preprocessing("I love building plastic model kits")
